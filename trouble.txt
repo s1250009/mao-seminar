@@ -1,0 +1,5 @@
+cloneができないトラブルが発生したが、埋め込みgitがなかったようだった。
+https://community.atlassian.com/t5/Sourcetree-questions/SourceTree%E3%81%A7%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84/qaq-p/1002076
+で解決した。
+https://community.atlassian.com/t5/Sourcetree-questions/SourceTree%E3%81%A7%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84/qaq-p/956255
+も少し試していた。
